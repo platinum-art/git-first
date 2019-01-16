@@ -1,5 +1,16 @@
-# Object file
-*.o
+# Created by https://www.gitignore.io/api/executable
+# Edit at https://www.gitignore.io/?templates=executable
 
-# Ada Library Information
-*.ali
+### Executable ###
+*.app
+*.bat
+*.cgi
+*.com
+*.exe
+*.gadget
+*.jar
+*.pif
+*.vb
+*.wsf
+
+# End of https://www.gitignore.io/api/executable
